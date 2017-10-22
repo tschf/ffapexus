@@ -1,3 +1,8 @@
+// ==UserScript==
+// @name        ffapexus
+// @include     *://*/f?p=*
+// ==/UserScript==
+
 // Firefox 1.0+ test
 // InstallTrigger is interface specifically for Firefox. By
 // checking if this is available, we can ascertain if we are
